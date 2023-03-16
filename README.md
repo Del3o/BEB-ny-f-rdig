@@ -1,1 +1,1 @@
-Simpel blockkedja som uppfyller dom kraven som krävdes :)
+Simpel blockkedja som uppfyller kraven :)
