@@ -1,1 +1,1 @@
-# BEB-ny-f-rdig
+Simpel blockkedja som fyller dom kraven som krävdes :)
